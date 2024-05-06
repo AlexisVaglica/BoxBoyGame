@@ -1,0 +1,1892 @@
+fileFormatVersion: 2
+guid: 857e83a12aa25c140a1fa16cc306e74c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boxBoy_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2482
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec67a28163c6c6459bb8ff1d68a7874
+      internalID: 1124849902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_1
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 2481
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88270114e14fc184c83931eb60c7693b
+      internalID: 1131981132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_2
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 2474
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252d337e3e47f0a4091ceb5bbb31d85e
+      internalID: 1214162394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_4
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 2480
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd2c56ba812ca14ca6e3db342c15135
+      internalID: 1728465752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_6
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 2491
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24c1fa1bbcc324468c3ca399b06658a
+      internalID: 648594938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_8
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 2494
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65bc99a7ab77e24cab0fbe5ff982f26
+      internalID: 509978088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_9
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 2503
+        width: 210
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b982bf985ed004c95b7007b7d0f18f
+      internalID: 611278752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_10
+      rect:
+        serializedVersion: 2
+        x: 2172
+        y: 2508
+        width: 275
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340dbbdf3d07d1545afef22cf31cc394
+      internalID: 1957672114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_11
+      rect:
+        serializedVersion: 2
+        x: 2488
+        y: 2507
+        width: 249
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f221692f7ed0e46bd0e8e3ec1d294a
+      internalID: 1118296468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_27
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 2215
+        width: 262
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0de7fe8a4736e34c8f7448e3edfb1a0
+      internalID: -71095482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_28
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 2199
+        width: 271
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4826843dff66cbd43b3f34434d509c24
+      internalID: 1211450392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_29
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 2210
+        width: 297
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1f49b6db8b0284faf68fa1ce592a17
+      internalID: -815119384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_30
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 2202
+        width: 246
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32771a1b6fec004f9e1a7881afba412
+      internalID: -715826704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_32
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 2202
+        width: 266
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f165837066633da42bc89dfc47c727c8
+      internalID: 1090537235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_33
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 2219
+        width: 252
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db3c9fb5c58ee7459fdb3b1e408e75e
+      internalID: 554637266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_34
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 2220
+        width: 150
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c560ffc9114d3d54ba7d5a3f46907b9c
+      internalID: 1701490542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_35
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 2220
+        width: 150
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e155105a85b7248898f9835cc2b90b
+      internalID: -859314101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_36
+      rect:
+        serializedVersion: 2
+        x: 2459
+        y: 2220
+        width: 150
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27eab8d3ccfe2c04394b195543a82511
+      internalID: 233517709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 165
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102837a613531be4b99f7c95e88f6be8
+      internalID: -947201243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_48
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1916
+        width: 163
+        height: 271
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfeeb046bd34fa45b31068fa0e04100
+      internalID: -715600684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_49
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1916
+        width: 165
+        height: 271
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ec6d0db1c01c145a0da143e83466b9
+      internalID: -1893957581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_50
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1916
+        width: 155
+        height: 271
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29dd12c029816274da6c9431120f3f08
+      internalID: -1612034288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_51
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 1921
+        width: 183
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71035148c9e6f8345ad5507900535f00
+      internalID: -1629848298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_53
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 1911
+        width: 184
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21cd130e418c5b40bbb0681d4fce619
+      internalID: 283934312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_54
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 1916
+        width: 183
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3a30f8d02000a49abe3be25d4a00e7
+      internalID: -193321600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_55
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 1921
+        width: 183
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7735928f647e3854dbb84f1628eb4411
+      internalID: -1188043066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_57
+      rect:
+        serializedVersion: 2
+        x: 2458
+        y: 1927
+        width: 158
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3354b6773a21846aeee5eccea5fa8f
+      internalID: 663744433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1638
+        width: 164
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29bccced0accb544b14daff666feab5
+      internalID: -1451282650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_60
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1638
+        width: 199
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3af61f3472acc64a9cbda9dde11e797
+      internalID: -1187628192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_61
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1663
+        width: 154
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d0df27600caaa48a571eaec1d11775
+      internalID: 1566991798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_62
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1661
+        width: 153
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9692491ccbd9e2c4ab9294168a6cd3aa
+      internalID: 1196258187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_63
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 1638
+        width: 186
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f78f904a049284689de73378509446
+      internalID: -708136126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_64
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 1651
+        width: 184
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3b92188e8e2c344924d5b11ad3c07e
+      internalID: 919283176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_65
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 1638
+        width: 152
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcce23529a6aa149bf347d694d72214
+      internalID: -445168752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_66
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 1657
+        width: 199
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c661dd65b6b95d140983f69e4138170c
+      internalID: -1791100053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_68
+      rect:
+        serializedVersion: 2
+        x: 2442
+        y: 1651
+        width: 183
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5ecc32f31882c4f8a834a1d51e7688
+      internalID: -1789503301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_82
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 1390
+        width: 182
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6baab989684a7142b7937c9271a7ef2
+      internalID: 472388149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1390
+        width: 169
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b43d4daf0e19c4b8533b57b3016285
+      internalID: 1528953617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_88
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1390
+        width: 191
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00676e3e2f751e94b89beed5b9d2b945
+      internalID: 1582985686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_90
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1418
+        width: 179
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18853f5afd55b664695ea113e24857c2
+      internalID: 822407202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_92
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 1395
+        width: 199
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76588fcee936084a9f635e01c3163ab
+      internalID: -513218049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_93
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 1390
+        width: 200
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64166fa752a33d14ca9614ab0240044c
+      internalID: 160789511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_95
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 1368
+        width: 162
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd1eb08db8c39f448dfcaa7b17de773
+      internalID: -1622605839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_96
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 1390
+        width: 215
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b894bb945efe3b4c84189e9e48cdd5e
+      internalID: 261595550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_97
+      rect:
+        serializedVersion: 2
+        x: 2458
+        y: 1360
+        width: 174
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dcf7d1d30743f243aa5dc611d426f99
+      internalID: -1581576061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_107
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 1079
+        width: 184
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3eda064e3a87141a32ac6abc264c38
+      internalID: -1392100320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_108
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 1071
+        width: 199
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feed8802e4a323943bd4b2c1572054c0
+      internalID: 303812487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_111
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1069
+        width: 165
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7c53013145af047a2a0eadab510190
+      internalID: 1083025621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_112
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1085
+        width: 148
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da91d4a43ce616845b87f679909ab699
+      internalID: 810480066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_113
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1079
+        width: 199
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818007b7774f9e14f8d691768224af56
+      internalID: 1842257588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_115
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 1085
+        width: 168
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67c2c5ba30e0fe498103b0374c4a9ca
+      internalID: -203394625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_117
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 1085
+        width: 189
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb72f47f7d1d9e4b80038da389232a6
+      internalID: -361563681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_118
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 1082
+        width: 177
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f209eaeb03a551e42ba853c20aa0b200
+      internalID: 451147745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_119
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 1069
+        width: 163
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e3e80867fc4184c8d8c1169b5afe4a
+      internalID: -2098182275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_129
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 801
+        width: 172
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ccd9dbc723863f4eb8c9b0ff0c98f8d
+      internalID: -1016563626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_130
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 809
+        width: 182
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c69e863152e93747bd3acfa76e88165
+      internalID: -499114094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_132
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 804
+        width: 183
+        height: 267
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a848218bb078574389cae62f4e8a6c8
+      internalID: 1599488786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_133
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 793
+        width: 178
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e781defe920d4e54badef9ce8a7d0e50
+      internalID: -1907296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_135
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 794
+        width: 192
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afed5e20525f504fb0883edde41f5c0
+      internalID: -615405656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_138
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 799
+        width: 182
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a37d10b8ca12e46a98608de0464b9e
+      internalID: 321603160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_139
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 819
+        width: 166
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0532533a047d645bb777abbf8a8c59
+      internalID: -1290279311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_140
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 793
+        width: 167
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6eb408c910ae74ab87b9ee7508b877
+      internalID: -992079419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_141
+      rect:
+        serializedVersion: 2
+        x: 2455
+        y: 793
+        width: 170
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a997db0238f2a2429e56dfc195b57b9
+      internalID: -1449129450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_152
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 518
+        width: 177
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2306a85c515be1649a26ada95c6622ba
+      internalID: 1692471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_154
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 518
+        width: 199
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ef7e61d7e291c48aee3f39960aebee
+      internalID: -1243235614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_156
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 515
+        width: 163
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87fe39efc3a11684195fbfbe2007637a
+      internalID: -1595468285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_157
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 536
+        width: 163
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9ace4cfce1aa7418660a4178a7f9e8
+      internalID: -2118911958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_158
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 507
+        width: 167
+        height: 274
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05320638e4a623d49aa10479b09b59e6
+      internalID: -2023522008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_159
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 536
+        width: 148
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15f57aee02aa4f4b995b619c1ec764f
+      internalID: -1785233332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_160
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 507
+        width: 150
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29299a1b04ab444fbc5e791aa7e9c0c
+      internalID: 1006536389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_161
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 536
+        width: 151
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ac91b3ba3500d48b0f25da5f0a11ea
+      internalID: -1228289039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_163
+      rect:
+        serializedVersion: 2
+        x: 2459
+        y: 536
+        width: 150
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8ce1718062d2944aa3ae1da556ba4a
+      internalID: 1476162068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_174
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 229
+        width: 181
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef906b4099621544eacb29d9c17d4e3a
+      internalID: -1285109979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_175
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 229
+        width: 183
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bbde315365ce04fad03dbcf96d2c33
+      internalID: 1768958960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxBoy_176
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 224
+        width: 147
+        height: 274
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e7115e5f73b214d83e9c1a0fa1ee01
+      internalID: -1000210025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      boxBoy_0: 1124849902
+      boxBoy_1: 1131981132
+      boxBoy_10: 1957672114
+      boxBoy_100: -2010790755
+      boxBoy_101: 79137416
+      boxBoy_102: -1296311456
+      boxBoy_103: 190430192
+      boxBoy_104: 1098841655
+      boxBoy_105: 286770532
+      boxBoy_106: 329849492
+      boxBoy_107: -1392100320
+      boxBoy_108: 303812487
+      boxBoy_109: -643557412
+      boxBoy_11: 1118296468
+      boxBoy_110: -1037983653
+      boxBoy_111: 1083025621
+      boxBoy_112: 810480066
+      boxBoy_113: 1842257588
+      boxBoy_114: -630834763
+      boxBoy_115: -203394625
+      boxBoy_116: 901531870
+      boxBoy_117: -361563681
+      boxBoy_118: 451147745
+      boxBoy_119: -2098182275
+      boxBoy_12: 256417582
+      boxBoy_120: 2058707870
+      boxBoy_121: 707395710
+      boxBoy_122: 200540296
+      boxBoy_123: 1450527119
+      boxBoy_124: -1649496265
+      boxBoy_125: 1267667880
+      boxBoy_126: 1332688175
+      boxBoy_127: -957923548
+      boxBoy_128: -1769455370
+      boxBoy_129: -1016563626
+      boxBoy_13: 132774866
+      boxBoy_130: -499114094
+      boxBoy_131: -2099886056
+      boxBoy_132: 1599488786
+      boxBoy_133: -1907296
+      boxBoy_134: -2063184589
+      boxBoy_135: -615405656
+      boxBoy_136: -1302913780
+      boxBoy_137: 841957887
+      boxBoy_138: 321603160
+      boxBoy_139: -1290279311
+      boxBoy_14: 45199293
+      boxBoy_140: -992079419
+      boxBoy_141: -1449129450
+      boxBoy_142: 702730629
+      boxBoy_143: -1705015113
+      boxBoy_144: 4752217
+      boxBoy_145: 989511360
+      boxBoy_146: 25273984
+      boxBoy_147: 1234701517
+      boxBoy_148: -1018209554
+      boxBoy_149: 88321347
+      boxBoy_15: -182952018
+      boxBoy_150: 1452978806
+      boxBoy_151: -637157529
+      boxBoy_152: 1692471
+      boxBoy_153: 889307223
+      boxBoy_154: -1243235614
+      boxBoy_155: 1937867472
+      boxBoy_156: -1595468285
+      boxBoy_157: -2118911958
+      boxBoy_158: -2023522008
+      boxBoy_159: -1785233332
+      boxBoy_16: -1903123738
+      boxBoy_160: 1006536389
+      boxBoy_161: -1228289039
+      boxBoy_162: 371846520
+      boxBoy_163: 1476162068
+      boxBoy_164: -1167925158
+      boxBoy_165: -1648468758
+      boxBoy_166: -1991981912
+      boxBoy_167: -466637048
+      boxBoy_168: 1169118093
+      boxBoy_169: 977238754
+      boxBoy_17: 90697853
+      boxBoy_170: -1489935548
+      boxBoy_171: -458210872
+      boxBoy_172: -80499288
+      boxBoy_173: -1777436900
+      boxBoy_174: -1285109979
+      boxBoy_175: 1768958960
+      boxBoy_176: -1000210025
+      boxBoy_18: -1004406350
+      boxBoy_19: -1886168967
+      boxBoy_2: 1214162394
+      boxBoy_20: 937917670
+      boxBoy_21: -608317212
+      boxBoy_22: 246754457
+      boxBoy_23: 887063978
+      boxBoy_24: -1513918408
+      boxBoy_25: -124762170
+      boxBoy_26: -1137979853
+      boxBoy_27: -71095482
+      boxBoy_28: 1211450392
+      boxBoy_29: -815119384
+      boxBoy_3: -1544612519
+      boxBoy_30: -715826704
+      boxBoy_31: 304566833
+      boxBoy_32: 1090537235
+      boxBoy_33: 554637266
+      boxBoy_34: 1701490542
+      boxBoy_35: -859314101
+      boxBoy_36: 233517709
+      boxBoy_37: 1656274638
+      boxBoy_38: 83221855
+      boxBoy_39: -1247032571
+      boxBoy_4: 1728465752
+      boxBoy_40: -1345846712
+      boxBoy_41: 930983467
+      boxBoy_42: -1665495960
+      boxBoy_43: -1501005698
+      boxBoy_44: 823507743
+      boxBoy_45: -617259632
+      boxBoy_46: -1512436956
+      boxBoy_47: -947201243
+      boxBoy_48: -715600684
+      boxBoy_49: -1893957581
+      boxBoy_5: -350547281
+      boxBoy_50: -1612034288
+      boxBoy_51: -1629848298
+      boxBoy_52: -551067442
+      boxBoy_53: 283934312
+      boxBoy_54: -193321600
+      boxBoy_55: -1188043066
+      boxBoy_56: -1014093125
+      boxBoy_57: 663744433
+      boxBoy_58: -1624692357
+      boxBoy_59: -1451282650
+      boxBoy_6: 648594938
+      boxBoy_60: -1187628192
+      boxBoy_61: 1566991798
+      boxBoy_62: 1196258187
+      boxBoy_63: -708136126
+      boxBoy_64: 919283176
+      boxBoy_65: -445168752
+      boxBoy_66: -1791100053
+      boxBoy_67: 55957993
+      boxBoy_68: -1789503301
+      boxBoy_69: -829726334
+      boxBoy_7: 328703023
+      boxBoy_70: 1237883600
+      boxBoy_71: 1809623780
+      boxBoy_72: -1162098629
+      boxBoy_73: 1678382430
+      boxBoy_74: 876027129
+      boxBoy_75: 216766249
+      boxBoy_76: 779035390
+      boxBoy_77: 1255557429
+      boxBoy_78: 772663694
+      boxBoy_79: -201647658
+      boxBoy_8: 509978088
+      boxBoy_80: 1472082440
+      boxBoy_81: -1262068594
+      boxBoy_82: 472388149
+      boxBoy_83: -336168459
+      boxBoy_84: 432720274
+      boxBoy_85: -188398302
+      boxBoy_86: -1159895633
+      boxBoy_87: 1528953617
+      boxBoy_88: 1582985686
+      boxBoy_89: -1243393308
+      boxBoy_9: 611278752
+      boxBoy_90: 822407202
+      boxBoy_91: -1121854282
+      boxBoy_92: -513218049
+      boxBoy_93: 160789511
+      boxBoy_94: -72752033
+      boxBoy_95: -1622605839
+      boxBoy_96: 261595550
+      boxBoy_97: -1581576061
+      boxBoy_98: 1199791977
+      boxBoy_99: -956341813
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
